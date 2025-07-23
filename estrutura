@@ -1,0 +1,9 @@
+/sql/
+  ├── criacao_tabela_vendas.sql
+  ├── carga_inicial.sql (opcional, pode importar CSV pelo phpMyAdmin)
+/powerbi/
+  ├── dashboard.pbix
+  ├── medidas_dax.txt
+/imagens/
+  ├── print_dashboard.png
+/README.md
